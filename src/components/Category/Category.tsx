@@ -77,7 +77,7 @@ const FloatingTitle = styled.figcaption(
     padding: 8px 16px;
     text-shadow: 2px 1px 2px rgba(0, 0, 0, 0.5);
     span {
-      color: ${color.white};
+      color: ${color.black};
     }
   `
 )
