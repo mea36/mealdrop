@@ -18,7 +18,7 @@ export const categories = [
   {
     id: 'comfort-food',
     title: 'Comfort food',
-    photoUrl: 'https://example.com/fooddoesntexists',
+    photoUrl: 'https://example.com/fooddoesntexist',
   },
   {
     id: 'sushi',
